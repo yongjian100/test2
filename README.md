@@ -1,4 +1,4 @@
-test2
+Test2
 =====
 some personal information 
 ##What I do
