@@ -10,4 +10,4 @@ some personal information
 ###When I'm busy
 * eat
 * sleep
-* play
+* dive
